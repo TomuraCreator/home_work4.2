@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TomuraCreator/home_work4.2.git"
+    "url": "https://github.com/TomuraCreator/home_work4.2"
   },
   "keywords": [],
   "author": "Tomura_Creator",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TomuraCreator/home_work4.2.git/issues"
+    "url": "https://github.com/TomuraCreator/home_work4.2/issues"
   },
-  "homepage": "https://github.com/TomuraCreator/home_work4.2.git",
+  "homepage": "https://github.com/TomuraCreator/home_work4.2",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
